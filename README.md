@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ravigarg2202
-- 👀 I’m interested in Data Analytics, science, Machine learnig, Deep Learning
-- 🌱 I’m currently learning Data analysis, Python, ETL
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in Data Engineering, Business Analytics, Data Science, Machine learning, Deep Learning
+- 💞️ I’m looking to collaborate on data science and machine learning projects
 - 📫 How to reach me? ... email me @: ravigarg2202@gmail.com
 
 <!---
